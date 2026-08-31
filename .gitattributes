@@ -1,0 +1,3 @@
+# Force text handling so merges work regardless of how files were created.
+* text=auto
+*.md text
