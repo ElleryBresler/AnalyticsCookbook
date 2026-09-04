@@ -12,6 +12,8 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 ## Mains
 
+- [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
+
 ## Sides & Snacks
 
 ## Desserts
