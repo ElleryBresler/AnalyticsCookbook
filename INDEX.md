@@ -19,3 +19,5 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 - [Classic No-Bake Cookies](recipes/duce.md) — perfect for an easy dessert. *(Trish Duce)*
 
 ## Drinks
+
+- [Orange Peach Smoothie](recipes/chaplin.md) — A refreshing smoothie with minimal effort. *(Janessa Chaplin)*
