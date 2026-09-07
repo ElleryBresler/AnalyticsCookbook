@@ -12,6 +12,8 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 ## Mains
 
+- [Bolognese Sauce](recipes/brown.md) — pasta sauce perfect for entertaining. *(Eric Brown)*
+
 - [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
 
 ## Sides & Snacks
