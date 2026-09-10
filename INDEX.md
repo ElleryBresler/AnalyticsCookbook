@@ -11,6 +11,14 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 ## Breakfast
 
 ## Mains
+- [Homemade Pizza Dough](recipes/bresler.md) — easy pizza dough recipe. *(Ellery Bresler)*
+
+- [Bolognese Sauce](recipes/brown.md) — pasta sauce perfect for entertaining. *(Eric Brown)*
+
+- [Roasted Butternut Squash Pasta](recipes/skrutvold.md) — perfect fall recipe when hosting. *(Aerionna Skrutvold)*
+
+- [Veggie Buckle](recipes/evans.md) — vegetable loaded dish. *(Hali Evans)*
+
 
 ## Sides & Snacks
 
@@ -19,3 +27,5 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 - [Classic No-Bake Cookies](recipes/duce.md) — perfect for an easy dessert. *(Trish Duce)*
 
 ## Drinks
+
+- [Orange Peach Smoothie](recipes/chaplin.md) — A refreshing smoothie with minimal effort. *(Janessa Chaplin)*
