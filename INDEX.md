@@ -28,6 +28,8 @@ Format: `- [Recipe Name](recipes/yourlastname.md) — one short phrase. *(Your N
 
 - [Dessert Empanadas](recipes/flores.md) - yummy jelly filled hand pies. *(Ecy Flores)*
 
+- [Rosie's Famous Chocolate Sour-Cream Layer Cake](recipes/mckenzie.md) — rich chocolate layer cake with fudge frosting made in a blender. *(Alex McKenzie)*
+
 ## Drinks
 
 - [Orange Peach Smoothie](recipes/chaplin.md) — A refreshing smoothie with minimal effort. *(Janessa Chaplin)*
